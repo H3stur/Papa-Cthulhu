@@ -1,4 +1,4 @@
-## Greetings! I'm Taran Roberts
+# Greetings! I'm Taran Roberts
 
 ## Contact Me!
 ### Discord: PapaCthulhu#1012
