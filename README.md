@@ -1,5 +1,4 @@
-### Greetings! I'm Taran Roberts
-
+## Greetings! I'm Taran Roberts
 <!--
 **Papa-Cthulhu/Papa-Cthulhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
