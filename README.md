@@ -1,7 +1,7 @@
 ## Greetings! I'm Taran Roberts
 
 ## Contact Me!
-#Discord: PapaCthulhu#1012
+### Discord: PapaCthulhu#1012
 <!--
 **Papa-Cthulhu/Papa-Cthulhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
